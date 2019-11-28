@@ -1,0 +1,16 @@
+C:\Users\Mohammud\source\repos\Demo_1\Demo_1\bin\Debug\Demo_1.exe.config
+C:\Users\Mohammud\source\repos\Demo_1\Demo_1\bin\Debug\Demo_1.exe
+C:\Users\Mohammud\source\repos\Demo_1\Demo_1\bin\Debug\Demo_1.pdb
+C:\Users\Mohammud\source\repos\Demo_1\Demo_1\obj\Debug\Demo_1.csprojAssemblyReference.cache
+C:\Users\Mohammud\source\repos\Demo_1\Demo_1\obj\Debug\Demo_1.EmployeeControl.resources
+C:\Users\Mohammud\source\repos\Demo_1\Demo_1\obj\Debug\Demo_1.EmployeeList.resources
+C:\Users\Mohammud\source\repos\Demo_1\Demo_1\obj\Debug\Demo_1.Form1.resources
+C:\Users\Mohammud\source\repos\Demo_1\Demo_1\obj\Debug\Demo_1.ProductControl.resources
+C:\Users\Mohammud\source\repos\Demo_1\Demo_1\obj\Debug\Demo_1.ProductListcs.resources
+C:\Users\Mohammud\source\repos\Demo_1\Demo_1\obj\Debug\Demo_1.Properties.Resources.resources
+C:\Users\Mohammud\source\repos\Demo_1\Demo_1\obj\Debug\Demo_1.SalesControl.resources
+C:\Users\Mohammud\source\repos\Demo_1\Demo_1\obj\Debug\Demo_1.SalesList.resources
+C:\Users\Mohammud\source\repos\Demo_1\Demo_1\obj\Debug\Demo_1.csproj.GenerateResource.cache
+C:\Users\Mohammud\source\repos\Demo_1\Demo_1\obj\Debug\Demo_1.csproj.CoreCompileInputs.cache
+C:\Users\Mohammud\source\repos\Demo_1\Demo_1\obj\Debug\Demo_1.exe
+C:\Users\Mohammud\source\repos\Demo_1\Demo_1\obj\Debug\Demo_1.pdb
